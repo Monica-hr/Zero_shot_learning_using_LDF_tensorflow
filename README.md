@@ -15,6 +15,8 @@
 	* tensorflow-gpu 1.4.0 
 	* opencv-python 3.3.0.10
 
+## Summary blog
+* https://blog.csdn.net/qq_28659831/article/details/82829124
 
 # Code structure
 ```
