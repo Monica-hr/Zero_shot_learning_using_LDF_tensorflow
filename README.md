@@ -1,4 +1,4 @@
-# Zero shot learning（Under continuous update）
+# Zero shot learning
 # Information
 * Competition: ZhijiangLab Cup Zero-shot learning Picture Recognition Competition
 * Team: ZJUAI
