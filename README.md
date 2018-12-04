@@ -1,4 +1,4 @@
-# Zero shot learning
+# Zero shot learning using LDF
 # Information
 * Competition: ZhijiangLab Cup Zero-shot learning Picture Recognition Competition
 * Team: ZJUAI
